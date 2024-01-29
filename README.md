@@ -6,10 +6,6 @@ WHEN I open the planner
 
 THEN the current day is displayed at the top of the calendar
 
-WHEN I scroll down
-
-THEN I am presented with time blocks for standard business hours of 9am to 5pm
-
 WHEN I view the time blocks for that day
 
 THEN each time block is color-coded to indicate whether it is in the past, present, or future
