@@ -1,23 +1,15 @@
 # work-day-scheduler
 
-GIVEN I am using a daily planner to create a schedule
+Module 5 Challenge
 
-WHEN I open the planner
+## Description
 
-THEN the current day is displayed at the top of the calendar
+Created Javascript to give functionality to a work-day scheduler. Added code so that values entered into scheduler persist, and linked javascript to CSS classes so that certain colors display depending on the past, present, or future tense of the entered item.
 
-WHEN I view the time blocks for that day
+## Screenshot
 
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
+![screenshot](./assets/images/05-third-party-apis-homework-demo.gif)
 
-WHEN I click into a time block
+## Live Site
 
-THEN I can enter an event
-
-WHEN I click the save button for that time block
-
-THEN the text for that event is saved in local storage
-
-WHEN I refresh the page
-
-THEN the saved events persist
+[Deployed Site](https://mlofaso.github.io/work-day-scheduler/)
